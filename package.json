@@ -1,0 +1,13 @@
+{
+  "name": "encuestas-servidor-railway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Puente de la app Fichas hacia el Web App de Google Apps Script",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
